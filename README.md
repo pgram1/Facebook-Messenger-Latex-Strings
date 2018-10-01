@@ -1,2 +1,4 @@
-# Facebook-Messenger-Latex-Strings
+# Facebook Messenger Latex Strings
 A utility to convert a string to Facebook Messenger style Latex
+
+Some regex make the code look messy :^) , sorry.
